@@ -1,15 +1,11 @@
 {
-  "db": {
-    "name": "db",
-    "connector": "memory"
-  },
-  "mongoDs": {
+  "mongo": {
     "host": "localhost",
     "port": 27017,
-    "url": "mongodb://localhost:27017/seok",
+    "url": "mongodb://127.0.0.1:27017/seok",
     "database": "seok",
     "password": "",
-    "name": "mongoDs",
+    "name": "mongo",
     "user": "",
     "connector": "mongodb"
   }

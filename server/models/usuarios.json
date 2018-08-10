@@ -1,5 +1,5 @@
 {
-  "name": "usuario",
+  "name": "usuarios",
   "plural": "usuarios",
   "base": "PersistedModel",
   "idInjection": true,
