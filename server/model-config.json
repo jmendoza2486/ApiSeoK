@@ -16,5 +16,13 @@
   "usuarios": {
     "dataSource": "mongo",
     "public": true
+  },
+  "reporte": {
+    "dataSource": "mongo",
+    "public": true
+  },
+  "agente": {
+    "dataSource": "mongo",
+    "public": true
   }
 }
