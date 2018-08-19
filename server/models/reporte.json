@@ -4,10 +4,11 @@
   "base": "PersistedModel",
   "idInjection": true,
   "options": {
-    "validateUpsert": true
+    "validateUpsert": true,
+    "strictObjectIDCoercion": true
   },
   "properties": {
-    "id_usuario": {
+    "idUsuario": {
       "type": "string",
       "required": true
     },
@@ -23,7 +24,7 @@
       "type": "string",
       "required": true
     },
-    "agente_id": {
+    "idAgente": {
       "type": "string"
     }
   },

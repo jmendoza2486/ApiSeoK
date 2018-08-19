@@ -1,6 +1,6 @@
 {
-  "name": "agente",
-  "plural": "agentes",
+  "name": "codigoAgente",
+  "plural": "codigosAgentes",
   "base": "PersistedModel",
   "idInjection": true,
   "options": {
@@ -12,15 +12,7 @@
       "type": "string",
       "required": true
     },
-    "estado": {
-      "type": "boolean",
-      "required": true
-    },
-    "latitud": {
-      "type": "string",
-      "required": true
-    },
-    "longitud": {
+    "codigo": {
       "type": "string",
       "required": true
     }
