@@ -2,7 +2,7 @@
   "mongo": {
     "host": "localhost",
     "port": 27017,
-    "url": "mongodb://127.0.0.1:27017/seok",
+    "url": "mongodb://apiuser:apiuser2018@ds125862.mlab.com:25862/seok",
     "database": "seok",
     "password": "",
     "name": "mongo",
