@@ -16,16 +16,16 @@
       "type": "string",
       "required": true
     },
-    "latitud": {
-      "type": "string",
-      "required": true
-    },
-    "longitud": {
+    "posicionUsuario": {
       "type": "string",
       "required": true
     },
     "idAgente": {
       "type": "string"
+    },
+    "posicionAgente": {
+      "type": "string",
+      "required": true
     }
   },
   "validations": [],
