@@ -4,9 +4,9 @@
     "port": 27017,
     "url": "mongodb://apiuser:apiuser2018@ds125862.mlab.com:25862/seok",
     "database": "seok",
-    "password": "",
+    "password": "apiuser2018",
     "name": "mongo",
-    "user": "",
+    "user": "apiuser",
     "connector": "mongodb"
   }
 }
