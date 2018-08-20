@@ -18,14 +18,14 @@
     },
     "posicionUsuario": {
       "type": "string",
-      "required": true
+      "required": false
     },
     "idAgente": {
       "type": "string"
     },
     "posicionAgente": {
       "type": "string",
-      "required": true
+      "required": false
     }
   },
   "validations": [],
