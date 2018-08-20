@@ -2,11 +2,11 @@
   "mongo": {
     "host": "localhost",
     "port": 27017,
-    "url": "mongodb://apiuser:apiuser2018@ds125862.mlab.com:25862/seok",
+    "url": "mongodb://userapi:userapi123@ds125862.mlab.com:25862/seok",
     "database": "seok",
-    "password": "apiuser2018",
+    "password": "userapi123",
     "name": "mongo",
-    "user": "apiuser",
+    "user": "userapi",
     "connector": "mongodb"
   }
 }
