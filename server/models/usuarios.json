@@ -11,6 +11,10 @@
       "type": "string",
       "required": true
     },
+    "identificacion": {
+      "type": "string",
+      "required": true
+    },
     "usuario": {
       "type": "string",
       "required": true
